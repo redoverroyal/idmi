@@ -1,2 +1,2 @@
-# idmi
+# idmi.
 Idle Miner Generator
