@@ -1,1 +1,1 @@
-Idle. Miner. Generator.
+Idle.. Miner. Generator.
